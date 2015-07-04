@@ -263,5 +263,5 @@ define(function (require, exports, module) {
         return this._$root;
     };
     
-    exports.ModalBar = ModalBar;
+    exports.ModalBar = ModalBar
 });
